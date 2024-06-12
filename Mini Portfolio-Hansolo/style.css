@@ -11,7 +11,7 @@
   /* dark mode */
   --dark-primary-bg-color: #37323e;
   --dark-primary-text-color: #ffffff;
-  --dark-secondary-color: #6d6a75;
+  --dark-secondary-color: #9995a4;
   --dark-btn-bg-color: #c99121;
   --dark-cta-hover-color: #b8740e;
   --dark-btn-bg-light: #c1c0c1;
@@ -251,6 +251,9 @@ project-wrapper:active .logo-container a:active {
 .download-btn {
   transition: background-color 0.3s ease;
 }
+
+.skills-btn {
+background-color: none;}
 
 .portfolio-skills {
   height: 4rem;

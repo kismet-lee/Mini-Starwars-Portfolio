@@ -21,7 +21,7 @@ skillsBtn.addEventListener('click', (event) => {
 // Light and Dark Mode
 document.addEventListener('DOMContentLoaded', () => {
   const toggleThemeButton = document.getElementById('toggleTheme');
-  const themeIcon = document.querySelector('img[alt="theme icon"]');
+  const themeLogo = document.querySelector('img[alt="theme icon"]');
   const githubLogo = document.querySelector('img[alt="github icon"]');
   const linkedinLogo = document.querySelector(
     'img[alt="linkedin icon"]'
